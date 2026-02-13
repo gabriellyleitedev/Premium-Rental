@@ -1,43 +1,41 @@
-# Premium-Rental
+# 🏎️ Premium Rental | High-End Fleet Interface
 
-Projeto criado com base em um modelo internacional, **adaptado e aprimorado por mim** com foco em aprendizado e prática real de front-end.  
-Explorei conceitos de **HTML, CSS e JavaScript**, aplicando animações, responsividade e integração com bibliotecas JS.
+[![UI-UX](https://img.shields.io/badge/Design-Premium-gold)](#)
+[![JS-Libs](https://img.shields.io/badge/Libraries-Swiper_&_ScrollReveal-blue)](#)
 
----
-
-## Tecnologias Utilizadas
-- **HTML5** — estrutura semântica da página  
-- **CSS3** — design moderno e responsivo  
-- **JavaScript (ES6)** — lógica interativa e integração  
-- **Swiper.js** — carrossel de imagens dinâmico  
-- **ScrollReveal.js** — animações de entrada suaves  
+Esta interface de reserva de veículos de luxo foca em **User Experience (UX)** e **Micro-interações**. O projeto utiliza bibliotecas de ponta para criar um fluxo visual contínuo, com animações de entrada e componentes de carrossel dinâmicos que elevam a percepção de valor do produto.
 
 ---
 
-## Funcionalidades
-- Menu interativo com ícones dinâmicos  
-- Transições suaves e animações de rolagem  
-- Cards interativos de seleção de veículos  
-- Layout 100% responsivo  
-- Efeitos de hover e destaque personalizados  
+## 🛠️ Especificações Técnicas
+
+- **Bibliotecas Externas:** Integração com **Swiper.js** para navegação fluida de assets e **ScrollReveal.js** para orquestração de motion design.
+- **JavaScript (ES6):** Manipulação de classes e eventos no DOM para garantir interatividade em tempo real.
+- **Engenharia de CSS:** Uso avançado de animações nativas (`keyframes`, `transitions`), Flexbox e Grid para um layout de alta fidelidade.
+- **Referência Internacional:** Projeto adaptado e otimizado a partir de modelos globais de UI, com refatoração completa de código.
 
 ---
 
-## Aprendizados
-Durante o desenvolvimento, aprendi a:
+## 🚀 Diferenciais e Engenharia
 
-- Manipular classes e eventos no DOM com JavaScript  
-- Trabalhar com bibliotecas externas (Swiper e ScrollReveal)  
-- Criar animações com CSS (`transform`, `transition`, `scale`, `@keyframes`)  
-- Melhorar a responsividade e usabilidade visual  
+- **Motion Design:** Transições suaves baseadas no scroll do usuário, garantindo uma navegação imersiva.
+- **Arquitetura Visual:** Cards interativos e efeitos de hover personalizados para feedback imediato ao usuário.
+- **Ciclo de Desenvolvimento:** Interface funcional em estágio final de otimização de responsividade para breakpoints específicos.
 
 ---
 
-## Como Visualizar
-Você pode abrir os arquivos diretamente no navegador **ou**, se publicado no GitHub Pages, acessar pelo link:  
-🔗 [https://gabriellyleitedev.github.io/Premium-Rental/](https://gabriellyleitedev.github.io/Premium-Rental/)
+## 🌎 Visualização do Projeto
+A interface pode ser acessada através do link abaixo:
+👉 [Visualizar Premium Rental](https://gabriellyleitedev.github.io/Premium-Rental/)
 
 ---
 
-## Screenshots
-<img width="1684" height="907" alt="image" src="https://github.com/user-attachments/assets/5c7991f1-08b9-4469-a105-0f719f0c3265" />
+## 📸 Interface Preview
+<p align="center">
+  <img width="100%" alt="Premium Rental Preview" src="https://github.com/user-attachments/assets/5c7991f1-08b9-4469-a105-0f719f0c3265" />
+</p>
+
+---
+<p align="center">
+  Engenharia de interface focada em performance e estética. 🚀
+</p>
